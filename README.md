@@ -11,14 +11,14 @@ When suspicious activity enters the isolated honeypot environment, the system ge
 
 ✨ Key Features
 
-- 🧠 **Generative AI Integration** – Uses locally hosted LLMs through Ollama.
-- 📁 **Generative Filesystem** – Dynamically generates fictional corporate files and directories.
-- 🗄️ **Dynamic SQL Engine** – Simulates realistic corporate database responses.
-- 🔄 **Context Retention** – Maintains consistency using ChromaDB.
-- 🌐 **Network Interception** – Monitors and routes selected test traffic.
-- 📊 **Security Dashboard** – Displays suspicious activities and AI responses.
-- 🔍 **Behavioral Analysis** – Analyzes commands and suspicious activity.
-- 🔐 **Sandbox Security** – Isolates the honeypot from the real host environment.
+- 🧠 **Generative AI Integration – Uses locally hosted LLMs through Ollama.
+- 📁 **Generative Filesystem– Dynamically generates fictional corporate files and directories.
+- 🗄️ **Dynamic SQL Engine – Simulates realistic corporate database responses.
+- 🔄 **Context Retention – Maintains consistency using ChromaDB.
+- 🌐 **Network Interception – Monitors and routes selected test traffic.
+- 📊 **Security Dashboard – Displays suspicious activities and AI responses.
+- 🔍 **Behavioral Analysis – Analyzes commands and suspicious activity.
+- 🔐 **Sandbox Security – Isolates the honeypot from the real host environment.
 
 🛠️ Technologies Used
 
